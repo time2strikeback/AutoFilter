@@ -4,7 +4,7 @@ aiohttp
 bs4
 colorama
 datetime
-dnspython==2.3.0
+dnspython==2.9.2
 ffmpeg-python>=0.2.0
 httpx[http2]
 jinja2
